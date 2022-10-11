@@ -2,7 +2,7 @@ spring:
   application:
     name: api
 server:
-  port: 0
+  port: 8081
 eureka:
   client:
     serviceUrl:
